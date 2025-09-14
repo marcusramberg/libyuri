@@ -13,7 +13,7 @@
 #include "yuri/core/thread/IOThread.h"
 #include "yuri/event/BasicEventProducer.h"
 #include "yuri/event/BasicEventConsumer.h"
-#include "jsoncpp/json/json.h"
+#include "json/json.h"
 namespace yuri {
 namespace json_config {
 

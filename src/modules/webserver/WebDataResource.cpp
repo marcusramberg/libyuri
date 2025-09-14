@@ -8,7 +8,7 @@
 #include "web_exceptions.h"
 #include "yuri/event/BasicEventParser.h"
 
-#include "jsoncpp/json/json.h"
+#include "json/json.h"
 
 namespace yuri {
     namespace webserver {
